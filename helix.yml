@@ -1,0 +1,7 @@
+database:
+  adapter: "mysqloo"
+  hostname: "pandorasbox.nn.pe"
+  username: "pandoras_admin"
+  password: "JXq2ID=Zq~x!"
+  database: "pandoras_database"
+  port: 3306
